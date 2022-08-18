@@ -5,7 +5,7 @@ let producto = require ('./multiplicar');
 let division = require ('./dividir');
 
 
-console.log('La suma da como resultado '+suma(8,4), 'la resta es '+resta(7,4));
+console.log('La suma da como resultado '+suma(8,4), 'la resta da como resultado '+resta(7,4));
 
 console.log(producto(7,3));
 
